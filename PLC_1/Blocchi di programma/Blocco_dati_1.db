@@ -1,0 +1,16 @@
+﻿DATA_BLOCK "Blocco_dati_1"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+NON_RETAIN
+   VAR 
+      VARIABILE : Int;
+      VARIABILE_1 : Int;
+      VARIABILE_2 : Int;
+      VARIABILE_3 : Int;
+   END_VAR
+
+
+BEGIN
+
+END_DATA_BLOCK
+
