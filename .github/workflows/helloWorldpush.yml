@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Avvia Openness
-        run: C:/UserData/z004hwns/OneDrive - Siemens AG/Documenti/Benedetta/AAA - Virtual Machine/Shared TIA V18/000 - RepoGitCI/myWorkspace/TestContInt.exe
+        run: "C:/UserData/z004hwns/OneDrive - Siemens AG/Documenti/Benedetta/AAA - Virtual Machine/Shared TIA V18/000 - RepoGitCI/myWorkspace/TestContInt.exe"
