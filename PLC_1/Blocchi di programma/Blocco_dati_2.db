@@ -1,0 +1,18 @@
+﻿DATA_BLOCK "Blocco_dati_2"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+NON_RETAIN
+   VAR 
+      variabile : Bool;
+      variabile_1 : Bool;
+      variabile_2 : Bool;
+      variabile_3 : Bool;
+      variabile_4 : Bool;
+      variabile_5 : Bool;
+   END_VAR
+
+
+BEGIN
+
+END_DATA_BLOCK
+
