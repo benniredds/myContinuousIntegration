@@ -28,4 +28,4 @@ jobs:
       # Runs a single command using the runners shell
       - name: Avvia Openness
       - run: echo Hello World!
-        #run: $GITHUB_WORKSPACE\TestContInt.exe
+      
