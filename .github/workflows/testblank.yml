@@ -28,5 +28,5 @@ jobs:
         #run: echo Hello, world!
         run:
           #cd "C:\UserData\z004hwns\OneDrive - Siemens AG\Desktop"
-          #notepad.exe #hello.txt
-          C:\Users\virtu\Desktop\ConsoleApp0704\ConsoleApp0704\bin\Release\ConsoleApp0704.exe
+          RUNNER_TRACKING_ID="" && forever start notepad.exe #hello.txt
+          #C:\Users\virtu\Desktop\ConsoleApp0704\ConsoleApp0704\bin\Release\ConsoleApp0704.exe
