@@ -27,7 +27,7 @@ jobs:
       - name: Run a multi-line script
         #run: echo Hello, world!
         run:
-          cd "C:\UserData\z004hwns\OneDrive - Siemens AG\Desktop"
-          notepad.exe hello.txt
+          #cd "C:\UserData\z004hwns\OneDrive - Siemens AG\Desktop"
+          notepad.exe #hello.txt
         
         
